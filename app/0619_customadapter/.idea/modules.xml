@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0619_customadapter.iml" filepath="$PROJECT_DIR$/.idea/modules/0619_customadapter.iml" group="AdapterView/app/0619_customadapter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1377696764/0619_spinner.iml" filepath="$PROJECT_DIR$/.idea/modules/-1377696764/0619_spinner.iml" group="AdapterView/app/0619_spinner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1227201791/AdapterView.iml" filepath="$PROJECT_DIR$/.idea/modules/-1227201791/AdapterView.iml" group="AdapterView" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/756404755/app.iml" filepath="$PROJECT_DIR$/.idea/modules/756404755/app.iml" group="AdapterView/app" />
+    </modules>
+  </component>
+</project>

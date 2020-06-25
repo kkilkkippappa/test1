@@ -23,6 +23,9 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    // 코드 변경이 한 차례 이르어진다.
+    // 테스트 확인용 주석입니다.
+
     TextView textView;
     ListView listView;
     Button btnAdd;
@@ -55,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                 LayoutInflater inflater = getLayoutInflater();
                 final View myView = inflater.inflate(R.layout.alertdialogview, null);
                 new AlertDialog.Builder(MainActivity.this)
-                        .setTitle("리스트 아이템 추가")
+                        .setTitle("리스트 아이템 추가합니다")
                         .setIcon(R.mipmap.ic_launcher)
                         .setView(myView)
                         .setCancelable(false)
