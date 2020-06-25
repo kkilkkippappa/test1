@@ -1,0 +1,4 @@
+include ':app:0619_spinner'
+include ':app:0619_customadapter'
+include ':app'
+rootProject.name = "AdapterView"
